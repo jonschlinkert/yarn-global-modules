@@ -1,7 +1,7 @@
 {
   "name": "yarn-global-modules",
   "description": "Get the absolute path to the yarn global modules directory (globally installed modules).",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/jonschlinkert/yarn-global-modules",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/yarn-global-modules",
